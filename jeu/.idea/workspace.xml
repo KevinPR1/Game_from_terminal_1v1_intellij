@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c934dd9c-15ec-4b87-b6fb-1e40cd30640c" name="Default Changelist" comment="" />
+    <list default="true" id="c934dd9c-15ec-4b87-b6fb-1e40cd30640c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/jeu/com/ocr/kevin/Exeptions/NumberExeption.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ocr/kevin/Exeptions/NumberExeption.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jeu/com/ocr/kevin/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jeu/com/ocr/kevin/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jeu/com/ocr/kevin/launch/Start.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jeu/com/ocr/kevin/launch/Start.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jeu/com/ocr/kevin/services/ArcherAttacksServices.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jeu/com/ocr/kevin/services/ArcherAttacksServices.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jeu/com/ocr/kevin/services/ArcherService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jeu/com/ocr/kevin/services/ArcherService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jeu/com/ocr/kevin/services/WarriorAttacksServices.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jeu/com/ocr/kevin/services/WarriorAttacksServices.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jeu/com/ocr/kevin/services/WarriorSaervice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jeu/com/ocr/kevin/services/WarriorSaervice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jeu/com/ocr/kevin/services/WizardAttacksServices.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jeu/com/ocr/kevin/services/WizardAttacksServices.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jeu/com/ocr/kevin/services/WizardService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jeu/com/ocr/kevin/services/WizardService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ocr/kevin/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ocr/kevin/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ocr/kevin/launch/Start.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ocr/kevin/launch/Start.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ocr/kevin/services/ArcherAttacksServices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ocr/kevin/services/ArcherAttacksServices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ocr/kevin/services/ArcherService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ocr/kevin/services/ArcherService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ocr/kevin/services/WarriorAttacksServices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ocr/kevin/services/WarriorAttacksServices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ocr/kevin/services/WarriorSaervice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ocr/kevin/services/WarriorSaervice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ocr/kevin/services/WizardAttacksServices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ocr/kevin/services/WizardAttacksServices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ocr/kevin/services/WizardService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ocr/kevin/services/WizardService.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +40,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1TQLNWtbhM4h2GMY2chjwdqzecu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -61,5 +89,18 @@
       <updated>1573387333109</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
